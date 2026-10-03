@@ -1,1 +1,0 @@
-console.log("Purezza Future Science website loaded!");
